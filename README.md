@@ -1,6 +1,6 @@
 # DecodeLabs-Internship
-1 month internship - 4 weekly tasks
-Rule-Based AI Chatbot
-Built using Python
-Internship Project 1
-DecodeLabs
+1 month internship - 4 weekly tasks<br>
+Rule-Based AI Chatbot<br>
+Built using Python<br>
+Internship Project 1<br>
+DecodeLabs<br>
